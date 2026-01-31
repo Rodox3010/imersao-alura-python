@@ -1,2 +1,2 @@
 # imersao-alura-python
-Aulas de imersão da Aluraem python, para desenvolvimeno de Dashboard, para levantamento e analise da dados.
+Aulas de imersão da Alura em python, para desenvolvimeno de Dashboard, para levantamento e analise da dados.
